@@ -1,0 +1,13 @@
+TANASOOK DEVELOPMENT - GitHub upload
+
+IMPORTANT:
+This ZIP is already arranged with the project files at its root.
+GitHub must receive the extracted project files, not the ZIP itself.
+
+On GitHub:
+1) Open repository tanasook-development.
+2) Add file -> Upload files.
+3) Select ALL files/folders inside this ZIP after extracting it.
+4) Commit changes.
+5) Open Actions -> Build APK -> Run workflow.
+6) When it finishes, open the workflow run and download artifact: tanasook-debug-apk.
