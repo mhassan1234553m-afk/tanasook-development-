@@ -1,6 +1,5 @@
 # Tanasook Development Android App
 
-GitHub-ready Android project. The Actions workflow builds a debug APK and uploads it as an artifact.
+GitHub Actions builds a debug APK automatically on pushes to `main` or manually from Actions.
 
-## GitHub
-Upload the contents of this folder to the repository root, commit to `main`, then open **Actions**.
+Required project files include `gradlew`, Gradle wrapper properties, the Android app module, and `MainActivity.java`.
