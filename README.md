@@ -1,13 +1,6 @@
-# Tanasook Development — Android MVP
+# Tanasook Development Android App
 
-تطبيق عقارات عربي RTL باسم Tanasook Development، بألوان كحلي/رمادي.
+GitHub-ready Android project. The Actions workflow builds a debug APK and uploads it as an artifact.
 
-## الأقسام
-شقق، محلات، مكاتب، أراضي، عمائر — مع بحث وعرض عقار تجريبي وزر إضافة عقار.
-
-## البناء
-افتح المشروع في Android Studio حديث، ثم Sync Project و Build > Build APK(s).
-
-Package: `com.tanasook.development`
-
-ملاحظة: هذه النسخة MVP محلية بدون Backend. يمكن لاحقاً ربطها بقاعدة بيانات، رفع صور، حسابات، مفضلة، واتساب ولوحة تحكم.
+## GitHub
+Upload the contents of this folder to the repository root, commit to `main`, then open **Actions**.
